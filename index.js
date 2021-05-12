@@ -16,7 +16,7 @@ const userPrompt = () => {
 }
 
 
-const init = () => {
+const start = () => {
     userPrompt()
         .then ((inputuser) => {
 
@@ -25,3 +25,4 @@ const init = () => {
             writetoFile(markdown)
         })
 }
+start();
