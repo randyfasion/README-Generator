@@ -42,14 +42,16 @@ ${name}
 ## License
 ${licenseBadge} : [View License](${licenseLinkURL})
 ## Table of Contents
-    - [Title](#Project-Name)
-    - [License](#License)
-    - [Description](#Description)
-    - [Installation](#Installation)
-    - [Usage](#Usage)
-    - [Contributions](#Contributions)
-    - [Tests](#Tests)
-    - [Questions](#Questions)
+
+- [Title](#Project-Name)
+- [License](#License)
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributions](#Contributions)
+- [Tests](#Tests)
+- [Questions](#Questions)
+
 ## Description
 ${description}
 ## Installation
