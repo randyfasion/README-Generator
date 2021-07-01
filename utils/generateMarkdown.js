@@ -19,6 +19,12 @@ const renderLicenseBadge = (license) => {
         let licenseLinkURL;
 
         switch (license) {
-            case 
+            case 'JSON License': 
+                licenseLinkURL = 'https://spdx.org/licenses/JSON.html';
+                break;
+
+            case 'MIT License':
+                licenseLinkURL = 'https://opensource.org/licenses/MIT';
         }
+        return licenseLinkURL;
     }
