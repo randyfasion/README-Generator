@@ -32,9 +32,16 @@ exports.questions = [
         message: "please enter test intructions"
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: "please choose a license"
+        message: 'Choose a licence type: ',
+        choices: [
+            'Apache License 2.0',
+            'GNU General Public License v3.0',
+            'MIT License',
+            'None'
+        ],
+        default: 'None'
     },
     {
         type: 'input',
