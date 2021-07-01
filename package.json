@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "static-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.0.0"
+    "inquirer": "^8.0.0",
+    "static-site": "^1.3.5"
   }
 }
