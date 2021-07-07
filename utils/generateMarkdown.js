@@ -54,8 +54,7 @@ ${licenseBadge} : [View License](${licenseLinkURL})
 
 ## Description
 ${description}
-## Installation
-Navigate to the root directory of this repository and run the following commands to install necessary dependencies:
+## Installation 
 ${installation}
 ## Usage
 ${usage}

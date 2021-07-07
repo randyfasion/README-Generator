@@ -39,7 +39,7 @@ ReadMe Generator
 ## Description
 This is  ReadMe Generator
 ## Installation
-Navigate to the root directory of this repository and run the following commands to install necessary dependencies:
+
 
 ## Usage
 This is usage information
