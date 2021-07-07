@@ -31,7 +31,7 @@ const renderLicenseLink = (license) => {
 
 const generateMarkdown = (data) => {
 
-    const { name, license, description, installation, usage, contributions, tests, email, questions } = data;
+    const { name, license, description, installation, usage, contribution, test, username, email } = data;
 
     const licenseBadge = renderLicenseBadge(license);
     const licenseLinkURL = renderLicenseLink(license);
@@ -60,11 +60,11 @@ ${installation}
 ## Usage
 ${usage}
 ## Contributions 
-${contributions}
+${contribution}
 ## Tests 
-${tests}
+${test}
 ## Questions 
-For issues, questions, and comments please contact ${email} or visit [https://github.com/${questions}](https://github.com/${questions}) 
+For issues, questions, and comments please contact ${email} or visit [https://github.com/${username}](https://github.com/${username}) 
         `
 
 }

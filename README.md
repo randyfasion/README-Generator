@@ -1,8 +1,8 @@
 
 # Project Name:
-ReadMe Generator
+t
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) : [View License](https://opensource.org/licenses/MIT)
+undefined : [View License](undefined)
 ## Table of Contents
 
 - [Title](#Project-Name)
@@ -15,16 +15,16 @@ ReadMe Generator
 - [Questions](#Questions)
 
 ## Description
-This is a ReadMe Generator Application. 
+t
 ## Installation
 Navigate to the root directory of this repository and run the following commands to install necessary dependencies:
-npm install
+t
 ## Usage
-
+t
 ## Contributions 
-undefined
+t
 ## Tests 
-undefined
+t
 ## Questions 
-For issues, questions, and comments please contact randytest@gmail.com or visit [https://github.com/undefined](https://github.com/undefined) 
+For issues, questions, and comments please contact t or visit [https://github.com/t](https://github.com/t) 
         
