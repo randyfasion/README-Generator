@@ -36,8 +36,7 @@ exports.questions = [
         name: 'license',
         message: 'Choose a licence type: ',
         choices: [
-            'Apache License 2.0',
-            'GNU General Public License v3.0',
+            'JSON',
             'MIT License',
             'None'
         ],
